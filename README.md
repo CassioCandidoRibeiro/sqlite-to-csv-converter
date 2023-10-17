@@ -5,9 +5,11 @@ Código em Python para converter tabelas
 de um arquivo .sqlite (Banco de Dados SQLite) 
 em .csv (Comma Separated Values)
 
-Eu estava estudando SQL pelo DBeaver através de um banco de dados públicos da Olist disponibilizado pelo Kaggle. 
-Quando terminei o curso de SQL, resolvi estudar PowerBI com o mesmo banco de dados.
-Mas o PowerBI não lê banco de dados com a extensão .sqlite, então precisei transformá-lo em tabelas .csv
+Eu estava estudando SQL pelo DBeaver, utilizando um Banco de Dados público da Olist, que tinha o formato SQLite.
+Quando terminei o curso de SQL, fui começar o de Power BI, e eu queria utilizar o mesmo Banco de Dados para criar os Dashboards.
+Mas o PowerBI não lê banco de dados com a extensão .sqlite, mas lê .csv
+Então me deu a vontade de converter as tabelas de um arquivo .sqlite (Banco de Dados SQLite) em .csv (Comma Separated Values).
+E ao invés de procurar um programa que fizesse isso, achei que seria muito mais legal se eu criasse um código em Python pra resolver esse problema.
 
 ## Índice:
 0. Bibliotecas 
